@@ -54,7 +54,7 @@ abstract class AppDatabase : RoomDatabase() {
                     location = "Surabaya",
                     imageUrl = "product_nike_air_high",
                     sellerName = "Agastya",
-                    whatsapp = "081234567890",
+                    whatsapp = "082326698593",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -65,8 +65,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "Converse Chuck 70s hitam, size 42, sole masih tebal dan nyaman dipake harian.",
                     location = "Purwokerto",
                     imageUrl = "product_converse",
-                    sellerName = "Budi Utomo",
-                    whatsapp = "082198765432",
+                    sellerName = "Diaz",
+                    whatsapp = "081226648848",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -77,8 +77,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "Jeans Levi's 501 size 32, warna navy gelap, baru dipakai 2x dijual karena salah ukuran.",
                     location = "Purwokerto",
                     imageUrl = "product_levi_s",
-                    sellerName = "Rian",
-                    whatsapp = "085712345678",
+                    sellerName = "Ratu",
+                    whatsapp = "082272105386",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -89,8 +89,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "Hoodie bahan fleece tebal warna washed grey, style streetwear boxy fit.",
                     location = "Bandung",
                     imageUrl = "product_hoodie",
-                    sellerName = "Daffa",
-                    whatsapp = "081900112233",
+                    sellerName = "Naila",
+                    whatsapp = "08214395372",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -101,8 +101,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "VGA Monster Aorus Extreme RTX 5090, kelengkapan fullset dus, garansi resmi aktif.",
                     location = "Semarang",
                     imageUrl = "product_aorus_5090",
-                    sellerName = "TechStore ID",
-                    whatsapp = "081388990011",
+                    sellerName = "Naira",
+                    whatsapp = "081392854887",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -113,8 +113,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "Headphone Bluetooth bass mantap, batre tahan 20 jam, mulus seperti baru.",
                     location = "Jakarta",
                     imageUrl = "product_headphone",
-                    sellerName = "Siti Rahma",
-                    whatsapp = "081244556677",
+                    sellerName = "Nayla",
+                    whatsapp = "085788066564",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -126,7 +126,7 @@ abstract class AppDatabase : RoomDatabase() {
                     location = "Purwokerto",
                     imageUrl = "product_adidas_backpack",
                     sellerName = "Agastya",
-                    whatsapp = "081234567890",
+                    whatsapp = "082326698593",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -137,8 +137,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "Mechanical keyboard 75% hot-swappable yellow switch, suara thocky, RGB bright.",
                     location = "Yogyakarta",
                     imageUrl = "product_mechanical_keyboard",
-                    sellerName = "Fajar",
-                    whatsapp = "087899001122",
+                    sellerName = "Saski",
+                    whatsapp = "085702281043",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -149,8 +149,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "PS5 Slim Digital edition, dapet 1 DualSense controller, kabel lengkap, mulus 98%.",
                     location = "Malang",
                     imageUrl = "product_playstation",
-                    sellerName = "Kevin",
-                    whatsapp = "082233445566",
+                    sellerName = "Javir",
+                    whatsapp = "087832569328",
                     status = ProductStatus.AVAILABLE.name
                 ),
                 Product(
@@ -161,8 +161,8 @@ abstract class AppDatabase : RoomDatabase() {
                     description = "Mouse gaming ergonomic Razer, sensor presisi 20K DPI, klik masih empuk.",
                     location = "Solo",
                     imageUrl = "product_raze_mouse",
-                    sellerName = "Reza",
-                    whatsapp = "089611223344",
+                    sellerName = "Aulia",
+                    whatsapp = "083896200880",
                     status = ProductStatus.AVAILABLE.name
                 )
             )
