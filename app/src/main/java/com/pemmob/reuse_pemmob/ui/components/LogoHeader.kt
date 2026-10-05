@@ -20,9 +20,11 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.res.painterResource
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.pemmob.reuse_pemmob.R
 import com.pemmob.reuse_pemmob.ui.theme.BrandBlueGradient
 
 @Composable
@@ -44,7 +46,7 @@ fun LogoHeader(
             contentAlignment = Alignment.Center
         ) {
             Icon(
-                imageVector = Icons.Rounded.Recycling,
+                painter = painterResource(id = R.drawable.ic_launcher_monochrome),
                 contentDescription = "Logo ReUse",
                 tint = Color.White,
                 modifier = Modifier.size(26.dp)
